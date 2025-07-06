@@ -1,0 +1,6 @@
+aws:
+  ec2:
+    require_encryption: true
+    allowed_regions:
+      - us-east-1
+      - ap-southeast-2 
